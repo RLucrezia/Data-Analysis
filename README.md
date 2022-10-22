@@ -1,4 +1,4 @@
-# Data-Analysis
+# R
 
-Hello! I'm Lu, and these are the projects I've worked on through the Datacamp website. The languages I used on these projects are SQL and R.
+This repository contains some of the projects I have carried out in R. They include examples of data manipulation using the dplyr library and data visualisation using ggplot2. If you have any questions feel free to contact me on LinkedIn at linkedin.com/in/lucrezia-romani
 
